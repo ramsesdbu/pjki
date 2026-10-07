@@ -1,0 +1,6 @@
+{
+  "name": "Pemeriksa Konflik Merek PDKI DJKI",
+  "description": "Sistem deteksi potensi konflik pendaftaran merek dan pengujian barang sejenis berdasarkan Pedoman Pemeriksaan Substantif Merek DJKI Bagian 5.1.4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
